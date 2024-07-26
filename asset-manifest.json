@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jerm/static/css/main.1dcb300f.css",
-    "main.js": "/jerm/static/js/main.f23e771f.js",
+    "main.css": "/jerm/static/css/main.fc8f3b01.css",
+    "main.js": "/jerm/static/js/main.d253f24a.js",
     "static/media/selfie.svg": "/jerm/static/media/selfie.745b241e222b179ad542.svg",
     "static/media/GothamPro.woff": "/jerm/static/media/GothamPro.9e3de47599b8a119a2b3.woff",
     "static/media/GothamPro.woff2": "/jerm/static/media/GothamPro.97a23059df8a758600fb.woff2",
@@ -11,11 +11,11 @@
     "static/media/jerm-dating.svg": "/jerm/static/media/jerm-dating.25f9be15f49e2da9eec50ef2bb63c648.svg",
     "static/media/match.svg": "/jerm/static/media/match.78327f81f05cc5e2611fbaf0a879c853.svg",
     "index.html": "/jerm/index.html",
-    "main.1dcb300f.css.map": "/jerm/static/css/main.1dcb300f.css.map",
-    "main.f23e771f.js.map": "/jerm/static/js/main.f23e771f.js.map"
+    "main.fc8f3b01.css.map": "/jerm/static/css/main.fc8f3b01.css.map",
+    "main.d253f24a.js.map": "/jerm/static/js/main.d253f24a.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dcb300f.css",
-    "static/js/main.f23e771f.js"
+    "static/css/main.fc8f3b01.css",
+    "static/js/main.d253f24a.js"
   ]
 }
