@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jerm/static/css/main.7aede143.css",
-    "main.js": "/jerm/static/js/main.2ed4369c.js",
+    "main.js": "/jerm/static/js/main.4f51e8d3.js",
     "static/media/female.jpg": "/jerm/static/media/female.e42469eb768ff5c775e9.jpg",
     "static/media/male.jpg": "/jerm/static/media/male.9c866fe0db52d597a108.jpg",
     "static/media/GothamPro.woff": "/jerm/static/media/GothamPro.9e3de47599b8a119a2b3.woff",
@@ -16,10 +16,10 @@
     "index.html": "/jerm/index.html",
     "static/media/word-jerm.svg": "/jerm/static/media/word-jerm.3016590ea566b1bbcec82478166af481.svg",
     "main.7aede143.css.map": "/jerm/static/css/main.7aede143.css.map",
-    "main.2ed4369c.js.map": "/jerm/static/js/main.2ed4369c.js.map"
+    "main.4f51e8d3.js.map": "/jerm/static/js/main.4f51e8d3.js.map"
   },
   "entrypoints": [
     "static/css/main.7aede143.css",
-    "static/js/main.2ed4369c.js"
+    "static/js/main.4f51e8d3.js"
   ]
 }
