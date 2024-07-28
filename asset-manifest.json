@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/jerm/static/css/main.9d56a93f.css",
-    "main.js": "/jerm/static/js/main.0b647d32.js",
+    "main.css": "/jerm/static/css/main.923936d0.css",
+    "main.js": "/jerm/static/js/main.bfbe68b1.js",
     "static/media/female.jpg": "/jerm/static/media/female.e42469eb768ff5c775e9.jpg",
     "static/media/male.jpg": "/jerm/static/media/male.9c866fe0db52d597a108.jpg",
     "static/media/GothamPro.woff": "/jerm/static/media/GothamPro.9e3de47599b8a119a2b3.woff",
     "static/media/GothamPro.woff2": "/jerm/static/media/GothamPro.97a23059df8a758600fb.woff2",
     "static/media/heart-small.svg": "/jerm/static/media/heart-small.0bc43e96dac7ecc3901cc95cc5a95a94.svg",
     "static/media/jerm.svg": "/jerm/static/media/jerm.3d92257ca8971bc97f0c9ed8b472807d.svg",
-    "static/media/jerm-dating.svg": "/jerm/static/media/jerm-dating.25f9be15f49e2da9eec50ef2bb63c648.svg",
+    "static/media/jerm-dating.svg": "/jerm/static/media/jerm-dating.8ef1906e0f5f15d511c4ecf80f091c1b.svg",
+    "static/media/loadingIcon.svg": "/jerm/static/media/loadingIcon.f3bd4efa2cf2712635aed6108ca484bd.svg",
     "static/media/match.svg": "/jerm/static/media/match.78327f81f05cc5e2611fbaf0a879c853.svg",
     "static/media/word-dating.svg": "/jerm/static/media/word-dating.1b94d246798e374be5eac6560864603e.svg",
     "static/media/hearts-small.svg": "/jerm/static/media/hearts-small.293bd7606cd29919e03db464f66f228c.svg",
     "index.html": "/jerm/index.html",
     "static/media/word-jerm.svg": "/jerm/static/media/word-jerm.3016590ea566b1bbcec82478166af481.svg",
-    "main.9d56a93f.css.map": "/jerm/static/css/main.9d56a93f.css.map",
-    "main.0b647d32.js.map": "/jerm/static/js/main.0b647d32.js.map"
+    "main.923936d0.css.map": "/jerm/static/css/main.923936d0.css.map",
+    "main.bfbe68b1.js.map": "/jerm/static/js/main.bfbe68b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d56a93f.css",
-    "static/js/main.0b647d32.js"
+    "static/css/main.923936d0.css",
+    "static/js/main.bfbe68b1.js"
   ]
 }
